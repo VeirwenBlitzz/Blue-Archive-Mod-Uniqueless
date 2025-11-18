@@ -1,6 +1,6 @@
-# Blue-Archive-Mod-Balanced MODIFIED*
+# A mod of the Blue-Archive-Mod
 
-Not the original mod, this is a modification of NekoKoishi's Blue Archive Mod
+This is not the original mod, this is a modification of NekoKoishi's Blue Archive Mod
 
 Link -> https://github.com/NekoKoishi/Blue-Archive-Mod-Balanced
 
