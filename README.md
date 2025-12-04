@@ -1,4 +1,4 @@
-# A mod of the Blue-Archive-Mod
+# A mod of the Blue-Archive-Mod-Balanced
 
 This is not the original mod, this is a modification of NekoKoishi's Blue Archive Mod
 
